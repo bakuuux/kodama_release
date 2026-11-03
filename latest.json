@@ -1,0 +1,8 @@
+{
+  "version": "0.1.4",
+  "url": "https://github.com/bakuuux/voqa_release/releases/tag/v0.1.4",
+  "notes": "履歴のページ送りと日付の絞り込みを追加し、アップデート後にウィンドウが自動で開くようにしました。",
+  "dmg": "https://github.com/bakuuux/voqa_release/releases/download/v0.1.4/Voqa-0.1.4.dmg",
+  "sha256": "27a90847b3a5fcd022bb3c0d47cee0689b66366dff58a070dfca5f91a070ec33",
+  "signature": "/A+r6t7t6TdgJXuz04vfBmXauDbqY9R2+UnyLSl71bkUKALmKjkrVg3+nQl7K+Wk755RJVyjwAIZdHUoxwtfCQ=="
+}
